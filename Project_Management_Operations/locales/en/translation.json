@@ -5,14 +5,11 @@
   "navAbout": "About",
   "navHow": "How it works",
   "navContact": "Contact",
-
   "heroTitle": "Deliver Projects with Precision. Transform Your Operations.",
   "heroText": "We provide PMP-certified project management and business consulting services designed to help organisations plan effectively, optimise operations, and deliver measurable results.",
   "heroBtn": "Request a Consultation",
-
   "missionTitle": "Our Mission",
   "missionText": "At Civoris, our mission is to deliver tailored solutions that empower organisations to plan with clarity, execute with discipline, and achieve sustainable results. We combine structured project management methodologies with practical business insight to drive real impact.",
-
   "whyTitle": "Why Work With Us",
   "why1Title": "Certified Project Management Professional (PMP-certified)",
   "why1Text": "Globally recognised project management standards ensuring structured, reliable delivery.",
@@ -20,30 +17,22 @@
   "why2Text": "Focused on measurable outcomes: efficiency, cost control, and successful delivery.",
   "why3Title": "Tailored Solutions",
   "why3Text": "Every organisation is unique. We design solutions aligned with your strategy and context.",
-
   "servicesTitle": "Our Core Services",
-
   "service1Title": "Project Management & Delivery",
   "service1Item1": "End-to-end project lifecycle management",
   "service1Item2": "Planning, scheduling & execution",
   "service1Item3": "Risk and stakeholder management",
   "service1Item4": "Performance tracking & reporting",
-  "visual1": "Execution Excellence",
-
   "service2Title": "Business Process Optimisation",
   "service2Item1": "Process analysis & redesign",
   "service2Item2": "Operational efficiency improvement",
   "service2Item3": "Workflow automation opportunities",
   "service2Item4": "Performance metrics (KPIs)",
-  "visual2": "Operational Efficiency",
-
   "service3Title": "Strategic Advisory",
   "service3Item1": "Project portfolio alignment",
   "service3Item2": "Business transformation support",
   "service3Item3": "Decision-making frameworks",
   "service3Item4": "Executive-level advisory",
-  "visual3": "Strategic Impact",
-
   "impactTitle": "Selected Impact",
   "impact1Title": "Operational Efficiency",
   "impact1Text": "Redesigned internal workflows for an organisation, reducing process delays by over 30%.",
@@ -51,7 +40,6 @@
   "impact2Text": "Successfully restructured a delayed project and delivered it within revised timelines and budget.",
   "impact3Title": "Strategic Alignment",
   "impact3Text": "Implemented governance frameworks that improved executive decision-making and reporting clarity.",
-
   "approachTitle": "Our Approach",
   "approachText": "We follow a structured methodology inspired by global best practices to ensure clarity, control, and consistent delivery.",
   "approach1Title": "1. Assess",
@@ -62,7 +50,6 @@
   "approach3Text": "Deliver projects with discipline and full visibility.",
   "approach4Title": "4. Optimise",
   "approach4Text": "Continuously improve processes and performance.",
-
   "finalCtaTitle": "Ready to Improve Your Project Delivery?",
   "finalCtaText": "Let’s discuss how we can support your organisation.",
   "finalCtaBtn": "Book a Consultation"

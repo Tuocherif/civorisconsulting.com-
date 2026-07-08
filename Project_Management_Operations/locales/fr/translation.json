@@ -5,14 +5,11 @@
   "navAbout": "À propos",
   "navHow": "Notre méthode",
   "navContact": "Contact",
-
   "heroTitle": "Livrez vos Projets avec Précision. Transformez vos Opérations.",
   "heroText": "Nous proposons des services de gestion de projet certifiés PMP et de conseil en business, conçus pour aider les organisations à planifier efficacement, optimiser leurs opérations et obtenir des résultats mesurables.",
   "heroBtn": "Demander une Consultation",
-
   "missionTitle": "Notre Mission",
   "missionText": "Chez Civoris, notre mission est de proposer des solutions sur mesure qui permettent aux organisations de planifier avec clarté, d’exécuter avec discipline et d’atteindre des résultats durables. Nous combinons des méthodologies structurées de gestion de projet avec une expertise business concrète pour générer un impact réel.",
-
   "whyTitle": "Pourquoi Travailler Avec Nous",
   "why1Title": "Professionnel Certifié en Gestion de Projet (Certification PMP)",
   "why1Text": "Des standards de gestion de projet reconnus mondialement, garantissant une livraison structurée et fiable.",
@@ -20,30 +17,22 @@
   "why2Text": "Un accent mis sur des résultats mesurables : efficacité, maîtrise des coûts et réussite de la livraison.",
   "why3Title": "Des Solutions Sur Mesure",
   "why3Text": "Chaque organisation est unique. Nous concevons des solutions alignées sur votre stratégie et votre contexte.",
-
   "servicesTitle": "Nos Services Principaux",
-
   "service1Title": "Gestion de Projet & Livraison",
   "service1Item1": "Gestion du cycle de vie complet du projet",
   "service1Item2": "Planification, ordonnancement & exécution",
   "service1Item3": "Gestion des risques et des parties prenantes",
   "service1Item4": "Suivi de la performance & reporting",
-  "visual1": "Excellence d’Exécution",
-
   "service2Title": "Optimisation des Processus Métier",
   "service2Item1": "Analyse et refonte des processus",
   "service2Item2": "Amélioration de l’efficacité opérationnelle",
   "service2Item3": "Opportunités d’automatisation des flux de travail",
   "service2Item4": "Indicateurs de performance (KPI)",
-  "visual2": "Efficacité Opérationnelle",
-
   "service3Title": "Conseil Stratégique",
   "service3Item1": "Alignement du portefeuille de projets",
   "service3Item2": "Accompagnement de la transformation d’entreprise",
   "service3Item3": "Cadres d’aide à la décision",
   "service3Item4": "Conseil au niveau exécutif",
-  "visual3": "Impact Stratégique",
-
   "impactTitle": "Impact Sélectionné",
   "impact1Title": "Efficacité Opérationnelle",
   "impact1Text": "Refonte des flux de travail internes d’une organisation, réduisant les retards de processus de plus de 30 %.",
@@ -51,7 +40,6 @@
   "impact2Text": "Restructuration réussie d’un projet en retard, livré dans les délais et le budget révisés.",
   "impact3Title": "Alignement Stratégique",
   "impact3Text": "Mise en place de cadres de gouvernance améliorant la prise de décision exécutive et la clarté du reporting.",
-
   "approachTitle": "Notre Approche",
   "approachText": "Nous suivons une méthodologie structurée inspirée des meilleures pratiques internationales pour garantir clarté, maîtrise et constance dans la livraison.",
   "approach1Title": "1. Évaluer",
@@ -62,7 +50,6 @@
   "approach3Text": "Livrer les projets avec discipline et une visibilité complète.",
   "approach4Title": "4. Optimiser",
   "approach4Text": "Améliorer continuellement les processus et la performance.",
-
   "finalCtaTitle": "Prêt à Améliorer la Livraison de Vos Projets ?",
   "finalCtaText": "Discutons de la façon dont nous pouvons accompagner votre organisation.",
   "finalCtaBtn": "Réserver une Consultation"

@@ -396,15 +396,15 @@ display:none;
 @media(max-width:1080px){
 
 nav ul{
-display:none;
+display:none !important;
 }
 
 .hamburger{
-display:flex;
+display:flex !important;
 }
 
 #mobilePanel{
-display:block;
+display:block !important;
 position:fixed;
 top:88px;
 left:50%;
@@ -545,6 +545,22 @@ text-align:center;
   color:var(--burgundy);
   text-align:center;
   padding:20px;
+}
+
+/* Photo variant: when a service-visual card holds an image
+   instead of placeholder text, drop the padding and let the
+   photo fill the card with clipped rounded corners. */
+.service-visual:has(img){
+padding:0;
+overflow:hidden;
+background:var(--light);
+}
+
+.service-visual img{
+width:100%;
+height:100%;
+object-fit:cover;
+display:block;
 }
 
 /* =====================

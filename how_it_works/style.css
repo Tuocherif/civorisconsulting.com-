@@ -396,15 +396,15 @@ display:none;
 @media(max-width:1080px){
 
 nav ul{
-display:none;
+display:none !important;
 }
 
 .hamburger{
-display:flex;
+display:flex !important;
 }
 
 #mobilePanel{
-display:block;
+display:block !important;
 position:fixed;
 top:88px;
 left:50%;

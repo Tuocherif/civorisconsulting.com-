@@ -1005,12 +1005,12 @@ display:none;
 @media(max-width:1080px){
 
 nav ul{
-display:none;
+display:none !important;
 }
 
 .hamburger{
 
-display:flex;
+display:flex !important;
 
 width:46px;
 height:46px;
@@ -1060,7 +1060,7 @@ top:6px;
 
 #mobilePanel{
 
-display:block;
+display:block !important;
 
 position:fixed;
 
