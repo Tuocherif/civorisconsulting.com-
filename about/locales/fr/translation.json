@@ -20,13 +20,32 @@
 
   "introTitle": "Un Conseil Professionnel Avec une Perspective Internationale",
 
-  "introText1": "Je suis un professionnel certifié PMP en gestion de projet et conseil en management avec plus de 15 ans d’expérience internationale auprès d’organisations en Europe, en Asie et en Afrique.",
+  "introText1": "Professionnel certifié (PMP) et accompli en gestion de projet, avec une expertise approfondie des méthodologies Agile, Scrum et Waterfall (cascade). Démontre une maîtrise de la planification de projet, de l’ordonnancement et de la gestion du périmètre, garantissant une livraison réussie dans le respect du budget et des délais. Compétent en gestion des risques, gestion du changement et assurance qualité, avec un fort accent sur l’engagement des parties prenantes et le leadership d’équipes transversales. Habile en planification stratégique et en gouvernance d’entreprise, avec pour objectif de conduire la réussite organisationnelle grâce à une résolution efficace des conflits et à la conformité.",
 
-  "introText2": "Mon travail consiste à aider les organisations à améliorer leur efficacité opérationnelle, renforcer la gestion de leurs projets, optimiser leurs processus internes et mettre en œuvre des solutions pratiques alignées sur leurs objectifs stratégiques.",
+  "introText2": "En dehors de la gestion de projets professionnels complexes, j’applique mes compétences en résolution de problèmes à ma passion : la mécanique diesel. Qu’il s’agisse de diagnostiquer un blocage dans un projet ou de dépanner un système d’injection à rampe commune haute pression, j’aime comprendre comment des éléments complexes s’assemblent pour optimiser la performance.",
 
   "cred1": "Années d’Expérience",
   "cred2": "Continents",
   "cred3": "Certifié",
+
+  "skillsTag": "COMPÉTENCES CLÉS",
+  "skillsTitle": "Compétences Clés & Expertise",
+  "skill1": "Gestion de Projet",
+  "skill2": "Gestion de Projet Agile",
+  "skill3": "Scrum",
+  "skill4": "Méthodologies Waterfall (Cascade)",
+  "skill5": "Gestion de Projet Hybride",
+  "skill6": "Planification et Ordonnancement de Projet",
+  "skill7": "Gestion du Périmètre",
+  "skill8": "Gestion et Atténuation des Risques",
+  "skill9": "Budgétisation et Gestion des Coûts",
+  "skill10": "Gestion du Changement",
+  "skill11": "Assurance Qualité et Approvisionnement Fournisseurs",
+  "skill12": "Gestion des Parties Prenantes",
+  "skill13": "Leadership d’Équipes Transversales",
+  "skill14": "Résolution de Conflits",
+  "skill15": "Planification Stratégique",
+  "skill16": "Gouvernance d’Entreprise et Conformité",
 
   "qualificationsTag": "QUALIFICATIONS & EXPERTISE",
 

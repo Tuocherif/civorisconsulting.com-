@@ -20,13 +20,32 @@
 
   "introTitle": "Professional Consulting With an International Perspective",
 
-  "introText1": "I am a PMP-certified project management and business consulting professional with over 15 years of international experience supporting organisations across Europe, Asia, and Africa.",
+  "introText1": "Certified (PMP) and accomplished project management professional with extensive expertise in Agile, Scrum, and Waterfall methodologies. Demonstrates proficiency in project planning, scheduling, and scope management, ensuring successful delivery within budget and time constraints. Skilled in risk management, change management, and quality assurance, with a strong focus on stakeholder engagement and cross-functional team leadership. Adept at strategic planning and business governance, aiming to drive organisational success through effective conflict resolution and compliance.",
 
-  "introText2": "My work focuses on helping organisations improve operational efficiency, strengthen project delivery, optimise internal processes, and implement practical business solutions aligned with strategic goals.",
+  "introText2": "Outside of managing complex professional projects, I apply my problem-solving skills to my hobby: learning diesel mechanics. Whether diagnosing a project bottleneck or troubleshooting a high-pressure common rail injection system, I love figuring out how complex pieces fit together to drive performance.",
 
   "cred1": "Years Experience",
   "cred2": "Continents",
   "cred3": "Certified",
+
+  "skillsTag": "CORE SKILLS",
+  "skillsTitle": "Core Skills & Expertise",
+  "skill1": "Project Management",
+  "skill2": "Agile Project Management",
+  "skill3": "Scrum",
+  "skill4": "Waterfall Methodologies",
+  "skill5": "Hybrid Project Management",
+  "skill6": "Project Planning and Scheduling",
+  "skill7": "Scope Management",
+  "skill8": "Risk Management and Mitigation",
+  "skill9": "Budgeting and Cost Management",
+  "skill10": "Change Management",
+  "skill11": "Quality Assurance and Vendor Procurement",
+  "skill12": "Stakeholder Management",
+  "skill13": "Cross-functional Team Leadership",
+  "skill14": "Conflict Resolution",
+  "skill15": "Strategic Planning",
+  "skill16": "Business Governance and Compliance",
 
   "qualificationsTag": "QUALIFICATIONS & EXPERTISE",
 

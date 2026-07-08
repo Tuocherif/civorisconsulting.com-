@@ -30,6 +30,9 @@
 
   "emailTitle": "Email",
   "phoneTitle": "Phone",
+  "primaryLabel": "Primary",
+  "secondaryLabel": "Secondary",
+  "officeLabel": "Office",
 
   "whatsappLink": "Chat instantly on WhatsApp",
 
