@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Prevent clickjacking -->
+    <meta http-equiv="X-Frame-Options" content="DENY">
+
+    <!-- Prevent MIME-type sniffing -->
+    <meta http-equiv="X-Content-Type-Options" content="nosniff">
+
+    <!-- Basic XSS protection -->
+    <meta http-equiv="X-XSS-Protection" content="1; mode=block">
+
+    <!-- Referrer policy (privacy) -->
+    <meta name="referrer" content="no-referrer">
+
+<title>Civoris Consultancy</title>
+    <link rel="stylesheet" href="style.css">
+
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/png" href="/home_images/civoris_logo.jpeg">
+<meta name="theme-color" content="#7a0f1a">
+
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+
+<nav id="navbar">
+
+<div class="container nav-container">
+
+<div class="logo">
+<a href="index.html" class="logo-link">
+<img src="/home_images/civoris_logo.jpeg" alt="Civoris Consultancy Logo">
+<div class="logo-text">
+<span class="brand-main">Civoris</span>
+<span class="brand-sub">Consultancy</span>
+</div>
+</a>
+</div>
+
+<ul>
+<li><a class="nav-link active" href="#" data-i18n="navHome">Home</a></li>
+<li><a class="nav-link" href="business_and_project_consulting/business.html" data-i18n="navBusiness">Business & Project Consulting</a></li>
+<li><a class="nav-link" href="Project_Management_Operations/civoris.html" data-i18n="navOperations">Project Management Operations</a></li>
+<li><a class="nav-link" href="about/about.html" data-i18n="navAbout">About</a></li>
+<li><a class="nav-link" href="how_it_works/how.html" data-i18n="navHow">How it works</a></li>
+<li><a class="nav-contact" href="contact/contact.html" data-i18n="navContact">Contact</a></li>
+
+<li>
+<button type="button" class="lang-switch" id="langToggle">
+<div class="lang-track">
+<div class="lang-thumb"></div>
+<span class="lang-option active-lang">EN</span>
+<span class="lang-option">FR</span>
+</div>
+</button>
+</li>
+
+</ul>
+
+<button class="hamburger" id="hamb" aria-label="Open mobile menu" aria-expanded="false">
+<span class="bar" aria-hidden="true"></span>
+</button>
+
+</div>
+</nav>
+
+    </header>
+
+    <!-- MOBILE NAV PANEL -->
+    <div id="mobilePanel" aria-hidden="true">
+
+<nav class="mobile-nav">
+
+<a href="index.html" class="mobile-link active-mobile" data-i18n="navHome">Home</a>
+
+<a href="business_and_project_consulting/business.html" class="mobile-link" data-i18n="navBusiness">Business & Project Consulting</a>
+
+<a href="Project_Management_Operations/civoris.html" class="mobile-link" data-i18n="navOperations">Project Management Operations</a>
+
+<a href="about/about.html" class="mobile-link" data-i18n="navAbout">About</a>
+
+<a href="how_it_works/how.html" class="mobile-link" data-i18n="navHow">How it works</a>
+
+<a href="contact/contact.html" class="mobile-contact" data-i18n="navContact">Contact</a>
+
+<button type="button" class="mobile-lang" id="mobileLangToggle">🌐 EN / FR</button>
+
+</nav>
+</div>
+
+
+    <!-- HERO -->
+    <main>
+<section class="hero">
+  <div class="container fade-in">
+    <h1 data-i18n="heroTitle">Strategic Business & Project Consulting Designed for Structured Growth</h1>
+    <p data-i18n="heroText">We help entrepreneurs, organisations and initiatives transform ideas into structured, measurable, and sustainable results — with international experience across three continents.</p>
+    <a href="contact/contact.html" class="btn-primary" data-i18n="heroBtn">Book a Consultation</a>
+  </div>
+</section>
+<!-- KPI SECTION -->
+<section class="kpi">
+  <div class="container fade-in">
+    <h2 data-i18n="kpiTitle">Proven Experience</h2>
+    <div class="kpi-grid">
+      <div class="kpi-item">
+        <h2 class="counter" data-target="8">0</h2>
+        <p data-i18n="kpiLabel1">Years Experience</p>
+      </div>
+      <div class="kpi-item">
+        <h2 class="counter" data-target="3">0</h2>
+        <p data-i18n="kpiLabel2">Continents</p>
+      </div>
+      <div class="kpi-item">
+        <h2 class="counter" data-target="20">0</h2>
+        <p data-i18n="kpiLabel3">Projects & Clients Supported</p>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="divider"></div>
+<!-- SERVICES -->
+<section class="services">
+  <div class="container fade-in">
+    <h2 data-i18n="servicesTitle">Business & Project Consulting</h2>
+    <div class="service-grid">
+      <div class="service-card">
+        <h3 data-i18n="service1Title">Project Structuring</h3>
+        <p data-i18n="service1Text">Clear frameworks, timelines, deliverables and execution roadmaps.</p>
+      </div>
+      <div class="service-card">
+        <h3 data-i18n="service2Title">Operational Organisation</h3>
+        <p data-i18n="service2Text">Process clarity, workflow optimisation and accountability systems.</p>
+      </div>
+      <div class="service-card">
+        <h3 data-i18n="service3Title">KPI & Reporting Systems</h3>
+        <p data-i18n="service3Text">Performance indicators and structured monitoring tools.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="divider"></div>
+<!-- HOW WE WORK -->
+<section class="process">
+  <div class="container fade-in">
+    <h2 data-i18n="processTitle">How We Work</h2>
+    <div class="process-steps">
+      <div class="step"><strong>01.</strong> <span data-i18n="processStep1">Initial Consultation</span></div>
+      <div class="step"><strong>02.</strong> <span data-i18n="processStep2">Needs Assessment</span></div>
+      <div class="step"><strong>03.</strong> <span data-i18n="processStep3">Structured Plan</span></div>
+      <div class="step"><strong>04.</strong> <span data-i18n="processStep4">Implementation</span></div>
+      <div class="step"><strong>05.</strong> <span data-i18n="processStep5">Monitoring & Feedback</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- TEACHING -->
+<section class="teaching">
+  <div class="container fade-in">
+    <h2 data-i18n="teachingTitle">Project Management Operations</h2>
+    <p data-i18n="teachingText">Helping organisations bring structure, clarity and momentum to their projects and operations. 
+      From planning and coordination to process improvement and performance tracking, 
+      I support teams in delivering work efficiently, staying on schedule, and achieving measurable results.</p>
+    <a href="Project_Management_Operations/civoris.html" class="btn-outline" data-i18n="teachingBtn">Learn More</a>
+  </div>
+</section>
+<!-- CTA -->
+<section class="cta">
+  <div class="container fade-in">
+    <h2 data-i18n="ctaTitle">Ready to Structure Your Next Initiative?</h2>
+    <a href="contact/contact.html" class="btn-primary" data-i18n="ctaBtn">Contact Civoris</a>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <strong>Civoris Consultancy</strong><br>
+    Abidjan, Côte d’Ivoire | International Services Available<br><br>
+    © 2026 Civoris.org
+  </div>
+</footer>
+
+</main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

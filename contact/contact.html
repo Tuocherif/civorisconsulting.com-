@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact | Civoris</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <link rel="stylesheet" href="style.css">
+
+<link rel="icon" type="image/png" href="/home_images/civoris_logo.jpeg">
+<meta name="theme-color" content="#7a0f1a">
+
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+
+<nav id="navbar">
+
+<div class="container nav-container">
+
+<div class="logo">
+<a href="../index.html" class="logo-link">
+<img src="/home_images/civoris_logo.jpeg" alt="Civoris Consultancy Logo">
+<div class="logo-text">
+<span class="brand-main">Civoris</span>
+<span class="brand-sub">Consultancy</span>
+</div>
+</a>
+</div>
+
+<ul>
+<li><a class="nav-link" href="../index.html" data-i18n="navHome">Home</a></li>
+<li><a class="nav-link" href="../business_and_project_consulting/business.html" data-i18n="navBusiness">Business & Project Consulting</a></li>
+<li><a class="nav-link" href="../Project_Management_Operations/civoris.html" data-i18n="navOperations">Project Management Operations</a></li>
+<li><a class="nav-link" href="../about/about.html" data-i18n="navAbout">About</a></li>
+<li><a class="nav-link" href="../how_it_works/how.html" data-i18n="navHow">How it works</a></li>
+<li><a class="nav-contact active" href="#" data-i18n="navContact">Contact</a></li>
+
+<li>
+<button type="button" class="lang-switch" id="langToggle">
+<div class="lang-track">
+<div class="lang-thumb"></div>
+<span class="lang-option active-lang">EN</span>
+<span class="lang-option">FR</span>
+</div>
+</button>
+</li>
+
+</ul>
+
+<button class="hamburger" id="hamb" aria-label="Open mobile menu" aria-expanded="false">
+<span class="bar" aria-hidden="true"></span>
+</button>
+
+</div>
+</nav>
+
+    </header>
+
+    <!-- MOBILE NAV PANEL -->
+    <div id="mobilePanel" aria-hidden="true">
+
+<nav class="mobile-nav">
+
+<a href="../index.html" class="mobile-link" data-i18n="navHome">Home</a>
+
+<a href="../business_and_project_consulting/business.html" class="mobile-link" data-i18n="navBusiness">Business & Project Consulting</a>
+
+<a href="../Project_Management_Operations/civoris.html" class="mobile-link" data-i18n="navOperations">Project Management Operations</a>
+
+<a href="../about/about.html" class="mobile-link" data-i18n="navAbout">About</a>
+
+<a href="../how_it_works/how.html" class="mobile-link" data-i18n="navHow">How it works</a>
+
+<a href="../contact/contact.html" class="mobile-contact active-mobile" data-i18n="navContact">Contact</a>
+
+<button type="button" class="mobile-lang" id="mobileLangToggle">🌐 EN / FR</button>
+
+</nav>
+</div>
+
+<!-- HERO -->
+ <main>
+<section class="page-hero">
+  <div class="container fade-in">
+    <h1 data-i18n="heroTitle">Contact Civoris Consultancy</h1>
+    <p data-i18n="heroText">
+Discuss your project, academic objectives, or request specialised consulting support.
+Fill out the form and our team will respond within 24 hours.
+</p>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- CONTACT SECTION -->
+<section class="contact-section">  <div class="container contact-grid fade-in">
+
+    <!-- FORM -->
+<form id="contactForm" class="contact-form">
+
+<p class="form-intro" data-i18n="formIntro">
+Fill out the form and our team will respond within 24 hours.
+</p>
+<p class="response-note">
+<i class="fa fa-clock"></i> <span data-i18n="responseNote">Average response time: under 24 hours</span>
+</p>
+<div class="input-group">
+<i class="fa fa-user"></i>
+<input id="name" type="text" placeholder="Your full name" data-i18n-placeholder="placeholderName" required>
+</div>
+
+<div class="input-group">
+<i class="fa fa-envelope"></i>
+<input id="email" type="email" placeholder="Your professional email address" data-i18n-placeholder="placeholderEmail" required>
+</div>
+
+<div class="input-group">
+<i class="fa fa-phone"></i>
+<input id="phone" type="text" placeholder="Phone number (optional)" data-i18n-placeholder="placeholderPhone">
+</div>
+
+<div class="input-group textarea">
+<i class="fa fa-message"></i>
+<textarea id="message" placeholder="Describe your request, project, or academic objective..." data-i18n-placeholder="placeholderMessage" required></textarea>
+</div>
+
+<!-- TOOLTIP -->
+<div id="formTooltip"></div>
+
+<button type="submit" class="btn-primary">
+<i class="fa fa-paper-plane"></i> <span data-i18n="sendBtn">Send Message</span>
+</button>
+
+<p class="privacy-note">
+<span data-i18n="privacyPrefix">By contacting us, you agree to our</span> 
+<a href="../privacy/privacy.html" data-i18n="privacyLink">Privacy Policy</a>.
+<span data-i18n="privacySuffix">Your information remains strictly confidential.</span>
+</p>
+
+</form>
+
+    <!-- INFO -->
+    <div class="contact-info">
+
+  <h3 data-i18n="directContactTitle">Direct Contact</h3>
+
+  
+<div class="contact-card">
+  <div class="contact-icon support">
+    <i class="fas fa-headset"></i>
+  </div>
+
+  <div class="contact-text">
+    <strong data-i18n="supportTitle">Operational Support</strong>
+    <span data-i18n="supportText">24/7 assistance for urgent operational matters</span>
+  </div>
+</div>
+
+
+  <div class="contact-card">
+  <div class="contact-icon email">
+    <i class="fas fa-envelope"></i>
+  </div>
+
+  <div class="contact-text">
+    <strong data-i18n="emailTitle">Email</strong>
+    <a href="mailto:contact@civoris.org">contact@civoris.org</a>
+  </div>
+</div>
+
+  <div class="contact-card">
+    <div class="contact-icon phone">
+      <i class="fas fa-phone"></i>
+    </div>
+
+    <div class="contact-text">
+      <strong data-i18n="phoneTitle">Phone</strong>
+      <a href="tel:+447543418699">+44 7543 418699</a>
+    </div>
+  </div>
+
+  <div class="contact-card">
+    <div class="contact-icon whatsapp">
+      <i class="fab fa-whatsapp"></i>
+    </div>
+
+    <div class="contact-text">
+      <strong>WhatsApp</strong>
+      <a href="https://wa.me/447543418699" target="_blank" data-i18n="whatsappLink">
+        Chat instantly on WhatsApp
+      </a>
+    </div>
+  </div>
+
+
+  <div class="contact-card">
+    <div class="contact-icon location">
+      <i class="fas fa-location-dot"></i>
+    </div>
+
+    <div class="contact-text">
+      <strong data-i18n="locationTitle">Location</strong>
+      Abidjan, Côte d’Ivoire<br>
+      <span data-i18n="locationSubtext">Online Services Worldwide</span>
+    </div>
+  </div>
+
+
+  <div class="qr-box">
+    <h3 data-i18n="qrTitle">Scan to Connect</h3>
+    <img src="images/qr-code.png" alt="Civoris QR Code">
+  </div>
+
+</div>
+
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <strong>Civoris Consultancy</strong><br>
+    Abidjan, Côte d’Ivoire | International Services Available<br><br>
+    © 2026 Civoris.org
+  </div>
+</footer>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script> 
+<script>
+            // ---------------- CONTACT FORM VALIDATION ----------------
+    const form = document.getElementById("contactForm");
+const tooltip = document.getElementById("formTooltip");
+
+form.addEventListener("submit", async (e) => {
+
+e.preventDefault();
+
+const name = document.getElementById("name").value.trim();
+const email = document.getElementById("email").value.trim();
+const phone = document.getElementById("phone").value.trim();
+const message = document.getElementById("message").value.trim();
+
+const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+const phoneRegex = /^[0-9+()\s-]{6,20}$/;
+
+tooltip.style.display = "none";
+tooltip.className = "";
+
+let errors = [];
+
+/* VALIDATION */
+
+if(!name){
+errors.push("Please enter your full name.");
+}
+
+if(!email || !emailRegex.test(email)){
+errors.push("Please enter a valid email address.");
+}
+
+if(phone && !phoneRegex.test(phone)){
+errors.push("Invalid phone number format.");
+}
+
+if(!message){
+errors.push("Please write your message.");
+}
+
+/* SHOW ERRORS */
+
+if(errors.length > 0){
+
+tooltip.innerHTML = errors.join("<br>");
+tooltip.classList.add("error");
+tooltip.style.display = "block";
+
+return;
+
+}
+
+/* SEND EMAIL */
+
+try{
+
+await emailjs.send(
+"service_4ez3wo9",
+"template_i3r7v34",
+{
+name:name,
+email:email,
+phone:phone,
+message:message
+}
+);
+
+tooltip.innerHTML = "✅ Message sent successfully!";
+tooltip.classList.add("success");
+tooltip.style.display = "block";
+
+form.reset();
+
+}catch(error){
+
+console.error(error);
+
+tooltip.innerHTML = "❌ Failed to send message. Please try again.";
+tooltip.classList.add("error");
+tooltip.style.display = "block";
+
+}
+
+});
+</script>
+<script src="script.js"></script>
+
+</body>
+</html>

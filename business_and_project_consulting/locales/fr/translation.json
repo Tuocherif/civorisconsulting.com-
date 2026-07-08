@@ -1,0 +1,39 @@
+{
+  "navHome": "Accueil",
+  "navBusiness": "Conseil en Gestion de Projet",
+  "navOperations": "Opérations & Gestion de Projet",
+  "navAbout": "À propos",
+  "navHow": "Notre méthode",
+  "navContact": "Contact",
+
+  "heroTitle": "Conseil en Gestion de Projet et Business",
+  "heroText": "Un accompagnement structuré et orienté résultats, conçu pour transformer les idées en réalité opérationnelle. Nous apportons clarté, discipline et systèmes mesurables à chaque initiative.",
+
+  "section1Title": "Planification & Structuration de Projet",
+  "section1Text": "Toute initiative réussie commence par une structure claire. Nous concevons des cadres d’exécution qui éliminent l’ambiguïté et créent une dynamique de progression.",
+  "section1Item1": "Feuilles de route et jalons de projet",
+  "section1Item2": "Cartographie des délais et livrables",
+  "section1Item3": "Planification de l’allocation des ressources",
+  "section1Item4": "Identification des risques et stratégie d’atténuation",
+  "visual1": "Conception de Cadres Stratégiques",
+
+  "section2Title": "Organisation d’Entreprise & Amélioration des Processus",
+  "section2Text": "La clarté opérationnelle favorise une croissance durable. Nous analysons les systèmes existants et optimisons les processus pour plus d’efficacité et de responsabilisation.",
+  "section2Item1": "Cartographie des processus",
+  "section2Item2": "Alignement de la structure opérationnelle",
+  "section2Item3": "Définition de la matrice des responsabilités",
+  "section2Item4": "Résolution des points de blocage de performance",
+  "visual2": "Optimisation Opérationnelle",
+
+  "section3Title": "Suivi, Indicateurs (KPI) & Systèmes de Reporting",
+  "section3Text": "Mesurer transforme l’intention en performance. Nous mettons en place des systèmes de suivi structurés garantissant une progression mesurable.",
+  "section3Item1": "Conception de cadres d’indicateurs (KPI) sur mesure",
+  "section3Item2": "Tableaux de bord de performance",
+  "section3Item3": "Structures de reporting",
+  "section3Item4": "Suivi de l’amélioration continue",
+  "visual3": "Systèmes de Pilotage de la Performance",
+
+  "coachingTitle": "Coaching Individuel en Projet & en Business",
+  "coachingText": "Pour les fondateurs, entrepreneurs et chefs de projet qui recherchent un accompagnement stratégique et une responsabilisation accrue. Les séances de coaching se concentrent sur l’exécution structurée, la clarté décisionnelle et une progression mesurable.",
+  "coachingBtn": "Demander une Consultation"
+}

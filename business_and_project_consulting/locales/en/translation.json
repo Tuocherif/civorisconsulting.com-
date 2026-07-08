@@ -1,0 +1,39 @@
+{
+  "navHome": "Home",
+  "navBusiness": "Business & Project Consulting",
+  "navOperations": "Project Management Operations",
+  "navAbout": "About",
+  "navHow": "How it works",
+  "navContact": "Contact",
+
+  "heroTitle": "Business & Project Consulting",
+  "heroText": "Structured, execution-focused consulting designed to transform ideas into operational reality. We bring clarity, discipline and measurable systems to every initiative.",
+
+  "section1Title": "Project Planning & Structuring",
+  "section1Text": "Every successful initiative begins with structure. We design clear execution frameworks that eliminate ambiguity and create momentum.",
+  "section1Item1": "Project roadmaps & milestones",
+  "section1Item2": "Timeline and deliverable mapping",
+  "section1Item3": "Resource allocation planning",
+  "section1Item4": "Risk identification & mitigation strategy",
+  "visual1": "Strategic Framework Design",
+
+  "section2Title": "Business Organisation & Process Improvement",
+  "section2Text": "Operational clarity drives sustainable growth. We analyse existing systems and optimise workflows for efficiency and accountability.",
+  "section2Item1": "Workflow mapping",
+  "section2Item2": "Operational structure alignment",
+  "section2Item3": "Responsibility matrix definition",
+  "section2Item4": "Performance bottleneck resolution",
+  "visual2": "Operational Optimisation",
+
+  "section3Title": "Monitoring, KPIs & Reporting Systems",
+  "section3Text": "Measurement transforms intention into performance. We implement structured tracking systems that ensure measurable progress.",
+  "section3Item1": "Custom KPI framework design",
+  "section3Item2": "Performance dashboards",
+  "section3Item3": "Reporting structures",
+  "section3Item4": "Continuous improvement tracking",
+  "visual3": "Performance Intelligence Systems",
+
+  "coachingTitle": "One-to-One Project & Business Coaching",
+  "coachingText": "For founders, entrepreneurs and project leaders who require strategic guidance and accountability. Coaching sessions focus on structured execution, decision clarity and measurable progress.",
+  "coachingBtn": "Request a Consultation"
+}

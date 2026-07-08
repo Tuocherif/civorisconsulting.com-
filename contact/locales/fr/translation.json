@@ -1,0 +1,40 @@
+{
+  "navHome": "Accueil",
+  "navBusiness": "Conseil en Gestion de Projet",
+  "navOperations": "Opérations & Gestion de Projet",
+  "navAbout": "À propos",
+  "navHow": "Notre méthode",
+  "navContact": "Contact",
+
+  "heroTitle": "Contacter Civoris Consultancy",
+  "heroText": "Discutons de votre projet, de vos objectifs académiques ou de votre besoin d’accompagnement spécialisé. Remplissez le formulaire et notre équipe vous répondra sous 24 heures.",
+
+  "formIntro": "Remplissez le formulaire et notre équipe vous répondra sous 24 heures.",
+  "responseNote": "Délai de réponse moyen : moins de 24 heures",
+
+  "placeholderName": "Votre nom complet",
+  "placeholderEmail": "Votre adresse e-mail professionnelle",
+  "placeholderPhone": "Numéro de téléphone (facultatif)",
+  "placeholderMessage": "Décrivez votre demande, votre projet ou votre objectif académique...",
+
+  "sendBtn": "Envoyer le Message",
+
+  "privacyPrefix": "En nous contactant, vous acceptez notre",
+  "privacyLink": "Politique de Confidentialité",
+  "privacySuffix": "Vos informations restent strictement confidentielles.",
+
+  "directContactTitle": "Contact Direct",
+
+  "supportTitle": "Support Opérationnel",
+  "supportText": "Assistance 24h/24 et 7j/7 pour les questions opérationnelles urgentes",
+
+  "emailTitle": "E-mail",
+  "phoneTitle": "Téléphone",
+
+  "whatsappLink": "Discutez instantanément sur WhatsApp",
+
+  "locationTitle": "Localisation",
+  "locationSubtext": "Services en Ligne dans le Monde Entier",
+
+  "qrTitle": "Scannez pour Nous Contacter"
+}

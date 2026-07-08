@@ -1,0 +1,39 @@
+{
+  "navHome": "Accueil",
+  "navBusiness": "Conseil en Gestion de Projet",
+  "navOperations": "Opérations & Gestion de Projet",
+  "navAbout": "À propos",
+  "navHow": "Notre méthode",
+  "navContact": "Contact",
+
+  "heroTitle": "Conseil Stratégique en Gestion de Projet et Business, Conçu pour une Croissance Structurée",
+  "heroText": "Nous aidons les entrepreneurs, les organisations et les initiatives à transformer leurs idées en résultats structurés, mesurables et durables — avec une expérience internationale sur trois continents.",
+  "heroBtn": "Réserver une Consultation",
+
+  "kpiTitle": "Une Expérience Éprouvée",
+  "kpiLabel1": "Années d’Expérience",
+  "kpiLabel2": "Continents",
+  "kpiLabel3": "Projets et Clients Accompagnés",
+
+  "servicesTitle": "Conseil en Gestion de Projet et Business",
+  "service1Title": "Structuration de Projet",
+  "service1Text": "Des cadres clairs, des échéanciers, des livrables et des feuilles de route d’exécution.",
+  "service2Title": "Organisation Opérationnelle",
+  "service2Text": "Clarté des processus, optimisation des flux de travail et systèmes de responsabilisation.",
+  "service3Title": "Indicateurs (KPI) & Systèmes de Reporting",
+  "service3Text": "Des indicateurs de performance et des outils de suivi structurés.",
+
+  "processTitle": "Notre Méthode de Travail",
+  "processStep1": "Consultation Initiale",
+  "processStep2": "Évaluation des Besoins",
+  "processStep3": "Plan Structuré",
+  "processStep4": "Mise en Œuvre",
+  "processStep5": "Suivi & Retour d’Expérience",
+
+  "teachingTitle": "Opérations & Gestion de Projet",
+  "teachingText": "Aider les organisations à apporter structure, clarté et dynamisme à leurs projets et opérations. De la planification et de la coordination à l’amélioration des processus et au suivi de la performance, j’accompagne les équipes pour livrer efficacement, respecter les délais et obtenir des résultats mesurables.",
+  "teachingBtn": "En Savoir Plus",
+
+  "ctaTitle": "Prêt à Structurer Votre Prochaine Initiative ?",
+  "ctaBtn": "Contacter Civoris"
+}
