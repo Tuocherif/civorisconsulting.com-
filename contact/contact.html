@@ -233,13 +233,15 @@ Fill out the form and our team will respond within 24 hours.
 </footer>
 </main>
 
-<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
 <script>
             // ---------------- EMAILJS CONFIG ----------------
     // Get this from https://dashboard.emailjs.com/admin/account
     // (Account -> General -> Public Key)
     const EMAILJS_PUBLIC_KEY = "Yx_0ZABVY2kvCEZ-w";
 
+    console.log("Public Key:", EMAILJS_PUBLIC_KEY);
+console.log(emailjs);
     emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
 
             // ---------------- CONTACT FORM VALIDATION ----------------
