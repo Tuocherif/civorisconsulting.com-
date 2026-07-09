@@ -194,7 +194,7 @@ Fill out the form and our team will respond within 24 hours.
 
     <div class="contact-text">
       <strong data-i18n="whatsappTitle">WhatsApp</strong>
-      <a href="https://wa.me/2250501766565" target="_blank" data-i18n="whatsappLink">
+      <a href="https://wa.me/2250501766565?text=Hello%20Civoris%20Consultancy" target="_blank" data-i18n="whatsappLink">
         Chat instantly on WhatsApp
       </a>
     </div>
@@ -240,8 +240,6 @@ Fill out the form and our team will respond within 24 hours.
     // (Account -> General -> Public Key)
     const EMAILJS_PUBLIC_KEY = "Yx_0ZABVY2kvCEZ-w";
 
-    console.log("Public Key:", EMAILJS_PUBLIC_KEY);
-console.log(emailjs);
     emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
 
             // ---------------- CONTACT FORM VALIDATION ----------------
@@ -315,9 +313,9 @@ await emailjs.send(
     "service_i538hhk",
     "template_r221pqz",
     {
-        title: "Website Contact",
         name,
         email,
+        time,
         phone,
         message
     }
@@ -331,9 +329,20 @@ form.reset();
 
 }catch(error){
 
-    console.log(error);
-    console.log(error.status);
-    console.log(error.text);
+console.error("EmailJS Error");
+
+console.error(error);
+
+console.error(error.status);
+
+console.error(error.text);
+
+tooltip.innerHTML =
+"❌ Unable to send your message. Please try again later.";
+
+tooltip.classList.add("error");
+
+tooltip.style.display="block";
 
 }
 
