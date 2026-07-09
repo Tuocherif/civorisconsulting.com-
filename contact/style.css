@@ -534,6 +534,7 @@ textarea{
 
   .contact-section{
   position:relative;
+  overflow:hidden;
   background:
   radial-gradient(circle at 20% 20%, rgba(122,15,26,.08), transparent 40%),
   radial-gradient(circle at 80% 70%, rgba(122,15,26,.08), transparent 40%),

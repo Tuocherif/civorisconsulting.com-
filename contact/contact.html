@@ -233,8 +233,15 @@ Fill out the form and our team will respond within 24 hours.
 </footer>
 </main>
 
-<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script> 
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
 <script>
+            // ---------------- EMAILJS CONFIG ----------------
+    // Get this from https://dashboard.emailjs.com/admin/account
+    // (Account -> General -> Public Key)
+    const EMAILJS_PUBLIC_KEY = "PASTE_YOUR_PUBLIC_KEY_HERE";
+
+    emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
+
             // ---------------- CONTACT FORM VALIDATION ----------------
     const form = document.getElementById("contactForm");
 const tooltip = document.getElementById("formTooltip");
@@ -281,6 +288,18 @@ if(errors.length > 0){
 tooltip.innerHTML = errors.join("<br>");
 tooltip.classList.add("error");
 tooltip.style.display = "block";
+
+return;
+
+}
+
+if(EMAILJS_PUBLIC_KEY === "PASTE_YOUR_PUBLIC_KEY_HERE"){
+
+tooltip.innerHTML = "⚠️ Form is not configured yet: add your EmailJS Public Key in contact.html.";
+tooltip.classList.add("error");
+tooltip.style.display = "block";
+
+console.error("EmailJS Public Key missing — see EMAILJS_PUBLIC_KEY in contact.html");
 
 return;
 
