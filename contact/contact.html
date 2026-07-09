@@ -170,7 +170,7 @@ Fill out the form and our team will respond within 24 hours.
 
   <div class="contact-text">
     <strong data-i18n="emailTitle">Email</strong>
-    <a href="mailto:contact@civoris.org">contact@civoris.org</a>
+    <a href="mailto:clyde@civorisconsulting.com">clyde@civorisconsulting.com</a>
   </div>
 </div>
 
@@ -193,8 +193,8 @@ Fill out the form and our team will respond within 24 hours.
     </div>
 
     <div class="contact-text">
-      <strong>WhatsApp</strong>
-      <a href="https://wa.me/2250788189662" target="_blank" data-i18n="whatsappLink">
+      <strong data-i18n="whatsappTitle">WhatsApp</strong>
+      <a href="https://wa.me/2250501766565" target="_blank" data-i18n="whatsappLink">
         Chat instantly on WhatsApp
       </a>
     </div>
@@ -310,14 +310,15 @@ return;
 try{
 
 await emailjs.send(
-"service_i538hhk",
-"template_r221pqz",
-{
-name:name,
-email:email,
-phone:phone,
-message:message
-}
+    "service_i538hhk",
+    "template_r221pqz",
+    {
+        title: "Website Contact",
+        name,
+        email,
+        phone,
+        message
+    }
 );
 
 tooltip.innerHTML = "✅ Message sent successfully!";
@@ -328,11 +329,9 @@ form.reset();
 
 }catch(error){
 
-console.error(error);
-
-tooltip.innerHTML = "❌ Failed to send message. Please try again.";
-tooltip.classList.add("error");
-tooltip.style.display = "block";
+    console.log(error);
+    console.log(error.status);
+    console.log(error.text);
 
 }
 
