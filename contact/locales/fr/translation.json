@@ -6,7 +6,7 @@
   "navHow": "Notre méthode",
   "navContact": "Contact",
 
-  "heroTitle": "Contacter Civoris Consultancy",
+  "heroTitle": "Contacter Civoris Consulting",
   "heroText": "Discutons de votre projet, de vos objectifs académiques ou de votre besoin d’accompagnement spécialisé. Remplissez le formulaire et notre équipe vous répondra sous 24 heures.",
 
   "formIntro": "Remplissez le formulaire et notre équipe vous répondra sous 24 heures.",
@@ -30,11 +30,11 @@
 
   "emailTitle": "E-mail",
   "phoneTitle": "Téléphone",
-  "primaryLabel": "Principal",
-  "secondaryLabel": "Secondaire",
+  "primaryLabel": "Téléphone",
   "officeLabel": "Bureau",
 
   "whatsappLink": "Discutez instantanément sur WhatsApp",
+  "whatsappTitle": "WhatsApp",
 
   "locationTitle": "Localisation",
   "locationSubtext": "Services en Ligne dans le Monde Entier",

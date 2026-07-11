@@ -10,7 +10,7 @@
 
   "heroTitle": "Aider les Organisations à Réaliser leurs Projets, Optimiser leurs Opérations et Atteindre leurs Objectifs Stratégiques",
 
-  "heroText": "Civoris Consultancy accompagne les organisations avec des solutions structurées en gestion de projet et conseil opérationnel afin d'améliorer l'efficacité, l'exécution et la croissance durable.",
+  "heroText": "Civoris Consulting accompagne les organisations avec des solutions structurées en gestion de projet et conseil opérationnel afin d'améliorer l'efficacité, l'exécution et la croissance durable.",
 
   "heroBtn1": "Planifier une Consultation",
 
@@ -20,9 +20,15 @@
 
   "introTitle": "Un Conseil Professionnel Avec une Perspective Internationale",
 
-  "introText1": "Professionnel certifié (PMP) et accompli en gestion de projet, avec une expertise approfondie des méthodologies Agile, Scrum et Waterfall (cascade). Démontre une maîtrise de la planification de projet, de l’ordonnancement et de la gestion du périmètre, garantissant une livraison réussie dans le respect du budget et des délais. Compétent en gestion des risques, gestion du changement et assurance qualité, avec un fort accent sur l’engagement des parties prenantes et le leadership d’équipes transversales. Habile en planification stratégique et en gouvernance d’entreprise, avec pour objectif de conduire la réussite organisationnelle grâce à une résolution efficace des conflits et à la conformité.",
+  "introText1": "S'il y a une chose dont je suis certain, c'est que les grandes entreprises reposent sur de grands systèmes.",
 
-  "introText2": "En dehors de la gestion de projets professionnels complexes, j’applique mes compétences en résolution de problèmes à ma passion : la mécanique diesel. Qu’il s’agisse de diagnostiquer un blocage dans un projet ou de dépanner un système d’injection à rampe commune haute pression, j’aime comprendre comment des éléments complexes s’assemblent pour optimiser la performance.",
+  "introText2": "Je m'appelle Fulgence Mazie, bien que la plupart des gens m'appellent Clyde. En tant que Professionnel Certifié en Gestion de Projet (PMP®) et Chartered Manager (CMgr MCMI), titulaire d'un diplôme First-Class Honours en Business and Management de l'Université de Derby, j'accompagne depuis une dizaine d'années des organisations dans la résolution de défis complexes grâce à la gestion de projet stratégique et au conseil en management.",
+
+  "introText3": "Mon approche consiste à aider les organisations à naviguer dans la complexité en équilibrant gouvernance structurée et exécution adaptative. Parce que je travaille aussi bien avec les méthodologies Agile, Scrum que Waterfall, je ne crois pas aux cadres uniques appliqués à toutes les situations. J'adapte plutôt l'approche à ce dont votre organisation a réellement besoin. D'une planification minutieuse et d'une maîtrise rigoureuse du budget à l'atténuation des risques et à l'engagement des parties prenantes, je veille à ce que les objectifs stratégiques soient livrés dans les délais, le périmètre et le budget prévus. En définitive, je suis spécialisé dans la transformation de blocages frustrants en processus fluides et performants.",
+
+  "introText4": "Lorsque je ne suis pas en train d'optimiser des systèmes d'entreprise ou de jouer au football, j'applique cette même approche diagnostique à l'une de mes passions manuelles : la mécanique diesel. Qu'il s'agisse de dépanner un système d'injection à rampe commune haute pression ou d'ajuster le calendrier d'un projet, j'aime tout simplement comprendre comment des éléments complexes s'assemblent pour atteindre une performance optimale.",
+
+  "introText5": "Si vous recherchez un partenaire de confiance pour améliorer la livraison de vos projets, optimiser vos opérations ou piloter un changement organisationnel en toute confiance, ce serait un plaisir d'échanger sur la façon dont Civoris Consulting peut vous aider à atteindre vos objectifs.",
 
   "cred1": "Années d’Expérience",
   "cred2": "Continents",
@@ -31,21 +37,14 @@
   "skillsTag": "COMPÉTENCES CLÉS",
   "skillsTitle": "Compétences Clés & Expertise",
   "skill1": "Gestion de Projet",
-  "skill2": "Gestion de Projet Agile",
-  "skill3": "Scrum",
-  "skill4": "Méthodologies Waterfall (Cascade)",
-  "skill5": "Gestion de Projet Hybride",
-  "skill6": "Planification et Ordonnancement de Projet",
-  "skill7": "Gestion du Périmètre",
-  "skill8": "Gestion et Atténuation des Risques",
-  "skill9": "Budgétisation et Gestion des Coûts",
-  "skill10": "Gestion du Changement",
-  "skill11": "Assurance Qualité et Approvisionnement Fournisseurs",
-  "skill12": "Gestion des Parties Prenantes",
-  "skill13": "Leadership d’Équipes Transversales",
-  "skill14": "Résolution de Conflits",
-  "skill15": "Planification Stratégique",
-  "skill16": "Gouvernance d’Entreprise et Conformité",
+  "skill2": "PMO & Contrôle de Projets",
+  "skill3": "Amélioration des Processus Métier",
+  "skill4": "Exécution de la Stratégie",
+  "skill5": "Gestion des Risques & des Parties Prenantes",
+  "skill6": "Gestion du Changement",
+  "skill7": "Suivi, Évaluation & Reporting",
+  "skill8": "Excellence Opérationnelle",
+  "skill9": "Formation & Coaching en Gestion de Projet",
 
   "qualificationsTag": "QUALIFICATIONS & EXPERTISE",
 
@@ -59,9 +58,9 @@
 
   "qual2Text": "Diplôme First Class en Business and Management de l’Université de Derby au Royaume-Uni.",
 
-  "qual3Title": "Leadership & Opérations",
+  "qual3Title": "Chartered Manager",
 
-  "qual3Text": "Diplôme CMI Niveau 5 en Management et Leadership avec une forte orientation opérationnelle et organisationnelle.",
+  "qual3Text": "Chartered Manager (CMgr MCMI), une accréditation professionnelle reconnaissant l'excellence en matière de leadership et de management.",
 
   "supportTag": "DOMAINES D’ACCOMPAGNEMENT",
 
@@ -133,7 +132,7 @@
 
   "ctaTitle": "Besoin d’un Accompagnement Structuré en Gestion de Projet et Opérations ?",
 
-  "ctaText": "Civoris Consultancy accompagne les organisations avec des solutions pratiques, des systèmes opérationnels solides et une exécution efficace des projets.",
+  "ctaText": "Civoris Consulting accompagne les organisations avec des solutions pratiques, des systèmes opérationnels solides et une exécution efficace des projets.",
 
-  "ctaBtn": "Contacter Civoris Consultancy"
+  "ctaBtn": "Contacter Civoris Consulting"
 }

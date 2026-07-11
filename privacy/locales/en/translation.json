@@ -1,0 +1,67 @@
+{
+  "navHome": "Home",
+  "navBusiness": "Business & Project Consulting",
+  "navOperations": "Project Management Operations",
+  "navAbout": "About",
+  "navHow": "How it works",
+  "navContact": "Contact",
+
+  "heroTitle": "Privacy Policy",
+  "heroText": "How Civoris Consulting collects, uses, and protects your personal information.",
+
+  "lastUpdated": "Last updated: July 2026",
+
+  "h1Title": "1. Introduction",
+  "h1Text1": "Civoris Consulting (\"Civoris\", \"we\", \"us\", or \"our\") provides project management and business consulting services. This Privacy Policy explains what information we collect through civoris-website.vercel.app (the \"Site\"), how we use it, who we share it with, and the choices available to you.",
+  "h1Text2": "By using the Site or submitting the contact form, you agree to the practices described in this Policy. If you do not agree, please do not submit your personal information through the Site.",
+
+  "h2Title": "2. Information We Collect",
+  "h2Text1": "We collect information in the following ways:",
+  "h2Item1Label": "Information you provide directly:",
+  "h2Item1Text": "when you complete the contact form, we collect your full name, email address, phone number (optional), and the content of your message.",
+  "h2Item2Label": "Language preference:",
+  "h2Item2Text": "the Site remembers whether you last viewed it in English or French using your browser's local storage. This preference is stored only on your own device and is never transmitted to us.",
+  "h2Item3Label": "Technical information:",
+  "h2Item3Text": "our hosting provider (Vercel) may automatically log standard technical data such as IP address, browser type, and access times for security and performance purposes, in line with Vercel's own privacy policy.",
+  "h2Text2": "We do not use advertising cookies, third-party tracking pixels, or analytics scripts on this Site.",
+
+  "h3Title": "3. How We Use Your Information",
+  "h3Text1": "We use the information you submit to:",
+  "h3Item1": "Respond to your enquiry and provide the consulting information or services you requested.",
+  "h3Item2": "Maintain a record of client and prospect communications for our own business purposes.",
+  "h3Item3": "Improve the content and usability of the Site.",
+  "h3Item4": "Comply with legal or regulatory obligations, where applicable.",
+  "h3Text2": "We do not sell, rent, or trade your personal information to third parties for marketing purposes.",
+
+  "h4Title": "4. Third-Party Services",
+  "h4Text1": "To operate the contact form and the Site, we rely on the following third-party service providers, who process data on our behalf:",
+  "h4Item1Text": "processes and delivers the content of the contact form (name, email, phone, message) from your browser to our mailbox. EmailJS's own privacy practices apply to data in transit through their platform.",
+  "h4Item2Text": "hosts the Site and may process basic technical/server logs as described above.",
+  "h4Item3Label": "Google Fonts and Font Awesome",
+  "h4Item3Text": "used to load typefaces and icons; these providers may receive standard technical request data (such as IP address) when your browser loads these resources.",
+  "h4Text2": "We choose service providers that maintain appropriate safeguards for the data they process on our behalf.",
+
+  "h5Title": "5. Data Retention",
+  "h5Text1": "We retain contact form submissions for as long as reasonably necessary to respond to your enquiry, maintain our business records, and meet any applicable legal or accounting obligations. You may request that we delete your information at any time — see Section 7 below.",
+
+  "h6Title": "6. Cookies and Local Storage",
+  "h6Text1": "The Site does not use tracking or advertising cookies. The only data stored in your browser is a language preference (English or French), saved locally on your device so the Site remembers your choice on your next visit. This value never leaves your browser.",
+
+  "h7Title": "7. Your Rights",
+  "h7Text1": "Depending on your location, you may have the right to access, correct, or request deletion of the personal information you have shared with us, and to object to or restrict certain uses of it. This includes rights available under the Ivorian data protection law (Loi n° 2013-450) and, where applicable, the EU General Data Protection Regulation (GDPR) for visitors located in the European Union.",
+  "h7Text2": "To exercise any of these rights, contact us using the details in Section 9 below. We will respond within a reasonable timeframe.",
+
+  "h8Title": "8. Security",
+  "h8Text1": "We take reasonable technical and organisational measures to protect the information you share with us. However, no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.",
+
+  "disclaimerNote": "This Privacy Policy is provided for general transparency and does not constitute legal advice. If you require a Privacy Policy tailored to specific regulatory obligations (such as GDPR or Ivorian data protection law), we recommend consulting a qualified legal professional.",
+
+  "h9Title": "9. Contact Us",
+  "h9Text1": "If you have questions about this Privacy Policy or wish to exercise your rights over your personal information, please contact us:",
+  "emailLabel": "Email:",
+  "phoneLabel": "Phone:",
+  "addressLabel": "Address:",
+
+  "h10Title": "10. Changes to This Policy",
+  "h10Text1": "We may update this Privacy Policy from time to time to reflect changes in our practices or for legal reasons. The \"Last updated\" date at the top of this page will reflect the most recent revision. We encourage you to review this page periodically."
+}

@@ -643,3 +643,15 @@ footer{
   padding:50px 0;
   font-size:14px;
 }
+
+footer a{
+  color:#e8c9cd;
+  text-decoration:none;
+  font-weight:500;
+  transition:color .3s ease;
+}
+
+footer a:hover{
+  color:#ffffff;
+  text-decoration:underline;
+}

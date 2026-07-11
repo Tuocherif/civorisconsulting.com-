@@ -6,7 +6,7 @@
   "navHow": "How it works",
   "navContact": "Contact",
 
-  "heroTitle": "Contact Civoris Consultancy",
+  "heroTitle": "Contact Civoris Consulting",
   "heroText": "Discuss your project, academic objectives, or request specialised consulting support. Fill out the form and our team will respond within 24 hours.",
 
   "formIntro": "Fill out the form and our team will respond within 24 hours.",
@@ -30,11 +30,11 @@
 
   "emailTitle": "Email",
   "phoneTitle": "Phone",
-  "primaryLabel": "Primary",
-  "secondaryLabel": "Secondary",
+  "primaryLabel": "Phone Number",
   "officeLabel": "Office",
 
   "whatsappLink": "Chat instantly on WhatsApp",
+  "whatsappTitle": "WhatsApp",
 
   "locationTitle": "Location",
   "locationSubtext": "Online Services Worldwide",

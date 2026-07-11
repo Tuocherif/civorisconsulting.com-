@@ -25,10 +25,10 @@
 
 <div class="logo">
 <a href="../index.html" class="logo-link">
-<img src="/home_images/civoris_logo.jpeg" alt="Civoris Consultancy Logo">
+<img src="/home_images/civoris_logo.jpeg" alt="Civoris Consulting Logo">
 <div class="logo-text">
 <span class="brand-main">Civoris</span>
-<span class="brand-sub">Consultancy</span>
+<span class="brand-sub">Consulting</span>
 </div>
 </a>
 </div>
@@ -88,7 +88,7 @@
  <main>
 <section class="page-hero">
   <div class="container fade-in">
-    <h1 data-i18n="heroTitle">Contact Civoris Consultancy</h1>
+    <h1 data-i18n="heroTitle">Contact Civoris Consulting</h1>
     <p data-i18n="heroText">
 Discuss your project, academic objectives, or request specialised consulting support.
 Fill out the form and our team will respond within 24 hours.
@@ -181,9 +181,8 @@ Fill out the form and our team will respond within 24 hours.
 
     <div class="contact-text">
       <strong data-i18n="phoneTitle">Phone</strong>
-      <span class="phone-line"><span data-i18n="primaryLabel">Primary</span>: <a href="tel:+2250788189662">+225 07 88 18 96 62</a></span>
-      <span class="phone-line"><span data-i18n="secondaryLabel">Secondary</span>: <a href="tel:+2250501766565">+225 05 01 76 65 65</a></span>
-      <span class="phone-line"><span data-i18n="officeLabel">Office</span>: <a href="tel:+22522400645">+225 22 40 06 45</a></span>
+      <span class="phone-line"><span data-i18n="primaryLabel">Phone Number</span>: <a href="tel:+2250788189662">+225 07 88 18 96 62</a></span>
+      <span class="phone-line"><span data-i18n="officeLabel">Office</span>: <a href="tel:+2252722400645">+225 27 22 400 645</a></span>
     </div>
   </div>
 
@@ -194,7 +193,7 @@ Fill out the form and our team will respond within 24 hours.
 
     <div class="contact-text">
       <strong data-i18n="whatsappTitle">WhatsApp</strong>
-      <a href="https://wa.me/2250501766565?text=Hello%20Civoris%20Consultancy" target="_blank" data-i18n="whatsappLink">
+      <a href="https://wa.me/447543418699" target="_blank" data-i18n="whatsappLink">
         Chat instantly on WhatsApp
       </a>
     </div>
@@ -226,9 +225,9 @@ Fill out the form and our team will respond within 24 hours.
 
 <footer>
   <div class="container">
-    <strong>Civoris Consultancy</strong><br>
+    <strong>Civoris Consulting</strong><br>
     Abidjan, Riviera 3 Cocody, Côte d’Ivoire | International Services Available<br><br>
-    © 2026 Civoris.org
+    © 2026 <a href="https://www.civorisconsulting.com">www.civorisconsulting.com</a>
   </div>
 </footer>
 </main>
@@ -313,6 +312,7 @@ await emailjs.send(
     "service_i538hhk",
     "template_r221pqz",
     {
+        title: "Website Contact",
         name,
         email,
         phone,
@@ -328,20 +328,13 @@ form.reset();
 
 }catch(error){
 
-console.error("EmailJS Error");
+    console.log(error);
+    console.log(error.status);
+    console.log(error.text);
 
-console.error(error);
-
-console.error(error.status);
-
-console.error(error.text);
-
-tooltip.innerHTML =
-"❌ Unable to send your message. Please try again later.";
-
-tooltip.classList.add("error");
-
-tooltip.style.display="block";
+    tooltip.innerHTML = "❌ Unable to send your message. Please try again, or contact us directly by phone or WhatsApp.";
+    tooltip.classList.add("error");
+    tooltip.style.display = "block";
 
 }
 

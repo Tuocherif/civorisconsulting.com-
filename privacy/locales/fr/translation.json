@@ -1,0 +1,67 @@
+{
+  "navHome": "Accueil",
+  "navBusiness": "Conseil en Gestion de Projet",
+  "navOperations": "Opérations & Gestion de Projet",
+  "navAbout": "À propos",
+  "navHow": "Notre méthode",
+  "navContact": "Contact",
+
+  "heroTitle": "Politique de Confidentialité",
+  "heroText": "Comment Civoris Consulting collecte, utilise et protège vos informations personnelles.",
+
+  "lastUpdated": "Dernière mise à jour : juillet 2026",
+
+  "h1Title": "1. Introduction",
+  "h1Text1": "Civoris Consulting (« Civoris », « nous », « notre ») propose des services de conseil en gestion de projet et en management. Cette Politique de Confidentialité explique quelles informations nous collectons via civoris-website.vercel.app (le « Site »), comment nous les utilisons, avec qui nous les partageons, et les choix qui s'offrent à vous.",
+  "h1Text2": "En utilisant le Site ou en soumettant le formulaire de contact, vous acceptez les pratiques décrites dans cette Politique. Si vous n'êtes pas d'accord, veuillez ne pas transmettre vos informations personnelles via le Site.",
+
+  "h2Title": "2. Informations que Nous Collectons",
+  "h2Text1": "Nous collectons des informations de la manière suivante :",
+  "h2Item1Label": "Informations que vous fournissez directement :",
+  "h2Item1Text": "lorsque vous remplissez le formulaire de contact, nous recueillons votre nom complet, votre adresse e-mail, votre numéro de téléphone (facultatif) et le contenu de votre message.",
+  "h2Item2Label": "Préférence linguistique :",
+  "h2Item2Text": "le Site mémorise si vous avez consulté le site en anglais ou en français grâce au stockage local de votre navigateur. Cette préférence est enregistrée uniquement sur votre propre appareil et ne nous est jamais transmise.",
+  "h2Item3Label": "Informations techniques :",
+  "h2Item3Text": "notre hébergeur (Vercel) peut enregistrer automatiquement des données techniques standard telles que l'adresse IP, le type de navigateur et les horaires d'accès, à des fins de sécurité et de performance, conformément à la politique de confidentialité de Vercel.",
+  "h2Text2": "Nous n'utilisons pas de cookies publicitaires, de pixels de suivi tiers, ni de scripts d'analyse sur ce Site.",
+
+  "h3Title": "3. Comment Nous Utilisons Vos Informations",
+  "h3Text1": "Nous utilisons les informations que vous soumettez pour :",
+  "h3Item1": "Répondre à votre demande et vous fournir les informations ou services de conseil demandés.",
+  "h3Item2": "Conserver un historique des échanges avec nos clients et prospects à des fins internes.",
+  "h3Item3": "Améliorer le contenu et l'ergonomie du Site.",
+  "h3Item4": "Respecter nos obligations légales ou réglementaires, le cas échéant.",
+  "h3Text2": "Nous ne vendons, ne louons, ni n'échangeons vos informations personnelles à des tiers à des fins commerciales.",
+
+  "h4Title": "4. Services Tiers",
+  "h4Text1": "Pour faire fonctionner le formulaire de contact et le Site, nous faisons appel aux prestataires tiers suivants, qui traitent des données pour notre compte :",
+  "h4Item1Text": "traite et transmet le contenu du formulaire de contact (nom, e-mail, téléphone, message) depuis votre navigateur jusqu'à notre messagerie. Les propres pratiques de confidentialité d'EmailJS s'appliquent aux données en transit sur leur plateforme.",
+  "h4Item2Text": "héberge le Site et peut traiter des journaux techniques/serveur basiques comme décrit ci-dessus.",
+  "h4Item3Label": "Google Fonts et Font Awesome",
+  "h4Item3Text": "utilisés pour charger les polices et icônes ; ces fournisseurs peuvent recevoir des données techniques standard de requête (comme l'adresse IP) lorsque votre navigateur charge ces ressources.",
+  "h4Text2": "Nous choisissons des prestataires qui maintiennent des garanties appropriées pour les données qu'ils traitent en notre nom.",
+
+  "h5Title": "5. Conservation des Données",
+  "h5Text1": "Nous conservons les soumissions du formulaire de contact aussi longtemps que raisonnablement nécessaire pour répondre à votre demande, tenir nos registres commerciaux et respecter nos obligations légales ou comptables applicables. Vous pouvez demander la suppression de vos informations à tout moment — voir la Section 7 ci-dessous.",
+
+  "h6Title": "6. Cookies et Stockage Local",
+  "h6Text1": "Le Site n'utilise pas de cookies de suivi ou publicitaires. La seule donnée stockée dans votre navigateur est une préférence linguistique (anglais ou français), enregistrée localement sur votre appareil afin que le Site se souvienne de votre choix lors de votre prochaine visite. Cette valeur ne quitte jamais votre navigateur.",
+
+  "h7Title": "7. Vos Droits",
+  "h7Text1": "Selon votre localisation, vous pouvez avoir le droit d'accéder, de rectifier ou de demander la suppression des informations personnelles que vous nous avez communiquées, ainsi que de vous opposer à certains usages ou d'en demander la limitation. Cela inclut les droits prévus par la loi ivoirienne relative à la protection des données à caractère personnel (Loi n° 2013-450) et, le cas échéant, le Règlement Général sur la Protection des Données (RGPD) de l'Union européenne pour les visiteurs situés dans l'UE.",
+  "h7Text2": "Pour exercer l'un de ces droits, contactez-nous en utilisant les coordonnées de la Section 9 ci-dessous. Nous vous répondrons dans un délai raisonnable.",
+
+  "h8Title": "8. Sécurité",
+  "h8Text1": "Nous prenons des mesures techniques et organisationnelles raisonnables pour protéger les informations que vous nous communiquez. Toutefois, aucune méthode de transmission sur Internet ni de stockage électronique n'est totalement sécurisée, et nous ne pouvons garantir une sécurité absolue.",
+
+  "disclaimerNote": "Cette Politique de Confidentialité est fournie à des fins de transparence générale et ne constitue pas un conseil juridique. Si vous avez besoin d'une politique adaptée à des obligations réglementaires spécifiques (comme le RGPD ou la loi ivoirienne sur la protection des données), nous vous recommandons de consulter un professionnel du droit qualifié.",
+
+  "h9Title": "9. Nous Contacter",
+  "h9Text1": "Si vous avez des questions concernant cette Politique de Confidentialité ou souhaitez exercer vos droits sur vos informations personnelles, veuillez nous contacter :",
+  "emailLabel": "E-mail :",
+  "phoneLabel": "Téléphone :",
+  "addressLabel": "Adresse :",
+
+  "h10Title": "10. Modifications de Cette Politique",
+  "h10Text1": "Nous pouvons mettre à jour cette Politique de Confidentialité de temps à autre pour refléter des changements dans nos pratiques ou pour des raisons légales. La date de « dernière mise à jour » en haut de cette page reflétera la révision la plus récente. Nous vous encourageons à consulter cette page périodiquement."
+}
