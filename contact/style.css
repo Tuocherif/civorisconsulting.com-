@@ -684,6 +684,10 @@ font-size:15px;
 transition:all .3s ease;
 }
 
+.input-group input{
+text-overflow:ellipsis;
+}
+
 .input-group textarea{
 min-height:130px;
 resize:vertical;

@@ -13,8 +13,8 @@
   "responseNote": "Délai de réponse moyen : moins de 24 heures",
 
   "placeholderName": "Votre nom complet",
-  "placeholderEmail": "Votre adresse e-mail professionnelle",
-  "placeholderPhone": "Numéro de téléphone (facultatif)",
+  "placeholderEmail": "Votre adresse e-mail",
+  "placeholderPhone": "Téléphone (facultatif)",
   "placeholderMessage": "Décrivez votre demande, votre projet ou votre objectif académique...",
 
   "sendBtn": "Envoyer le Message",
