@@ -517,7 +517,7 @@ input, textarea{
   border:1px solid #ddd;
   border-radius:8px;
   font-family:inherit;
-  font-size:15px;
+  font-size:16px;
   transition:var(--transition);
 }
 
@@ -680,7 +680,7 @@ padding:14px 14px 14px 42px;
 border-radius:10px;
 border:1px solid #ddd;
 font-family:inherit;
-font-size:15px;
+font-size:16px;
 transition:all .3s ease;
 }
 
