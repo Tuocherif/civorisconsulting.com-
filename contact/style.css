@@ -623,6 +623,7 @@ textarea{
   filter:blur(120px);
   top:-100px;
   right:-100px;
+  pointer-events:none;
 }
   
 .qr-box{
