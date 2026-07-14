@@ -3,11 +3,11 @@
   "navBusiness": "Conseil en Gestion de Projet",
   "navOperations": "Opérations & Gestion de Projet",
   "navAbout": "À propos",
-  "navHow": "Notre méthode",
+  "navHow": "Notre Méthode",
   "navContact": "Contact",
 
   "heroTitle": "Contacter Civoris Consulting",
-  "heroText": "Discutons de votre projet, de vos objectifs académiques ou de votre besoin d’accompagnement spécialisé. Remplissez le formulaire et notre équipe vous répondra sous 24 heures.",
+  "heroText": "Discutons de votre projet ou de votre besoin d’accompagnement spécialisé. Remplissez le formulaire et notre équipe vous répondra sous 24 heures.",
 
   "formIntro": "Remplissez le formulaire et notre équipe vous répondra sous 24 heures.",
   "responseNote": "Délai de réponse moyen : moins de 24 heures",
@@ -15,7 +15,7 @@
   "placeholderName": "Votre nom complet",
   "placeholderEmail": "Votre adresse e-mail",
   "placeholderPhone": "Téléphone (facultatif)",
-  "placeholderMessage": "Décrivez votre demande, votre projet ou votre objectif académique...",
+  "placeholderMessage": "Décrivez votre demande ou votre projet...",
 
   "sendBtn": "Envoyer le Message",
 
