@@ -22,7 +22,7 @@
 
   "introText1": "If there's one thing I'm certain of, it's that great businesses are built on great systems.",
 
-  "introText2": "I'm Fulgence Mazie, though most people call me Clyde. As a Certified Project Management Professional (PMP®) and Chartered Manager (CMgr MCMI) with a First-Class Honours degree in Business and Management from the University of Derby, I've spent the past decade helping organisations solve complex challenges through strategic project management and business consulting.",
+  "introText2": "I'm Fulgence Mazie, though most people call me Clyde. As a Certified Project Management Professional (PMP®) and Chartered Manager (CMgr), holding a First-Class Honours degree in Business and Management from the University of Derby and a Master's degree in Development Studies and Diplomacy from Universitat Oberta de Catalunya, Spain, I've spent the past decade helping organisations solve complex challenges through strategic project management and business consulting.",
 
   "introText3": "My approach is centred on helping organisations navigate complexity by balancing structured governance with adaptive execution. Because I work across Agile, Scrum and Waterfall methodologies, I don't believe in one-size-fits-all frameworks. Instead, I tailor the approach to what your organisation actually needs. From meticulous planning and rigorous budget control to risk mitigation and stakeholder engagement, I help ensure strategic objectives are delivered on time, within scope and within budget. Ultimately, I specialise in transforming frustrating bottlenecks into streamlined, high-performing workflows.",
 
@@ -58,9 +58,21 @@
 
   "qual2Text": "First Class degree in Business and Management from the University of Derby, United Kingdom.",
 
-  "qual3Title": "Chartered Manager",
+  "qual4Title": "Development Studies & Diplomacy",
 
-  "qual3Text": "Chartered Manager (CMgr MCMI), a professional accreditation recognising excellence in leadership and management practice.",
+  "qual4Text": "Master's degree (M.A.) in Development Studies and Diplomacy from Universitat Oberta de Catalunya, Spain.",
+
+  "qual3Title": "Diploma in Management and Leadership",
+
+  "qual3Text": "Chartered Manager (CMgr), awarded by the Chartered Management Institute, London, United Kingdom.",
+
+  "galleryTag": "CIVORIS IN ACTION",
+
+  "galleryTitle": "Consulting & Training in Practice",
+
+  "gallery1Caption": "Facilitating a project needs & issues workshop with a client project team.",
+
+  "gallery2Caption": "Delivering training and stakeholder briefings in the field.",
 
   "supportTag": "SELECTED AREAS OF SUPPORT",
 
