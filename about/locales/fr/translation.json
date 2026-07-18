@@ -22,17 +22,21 @@
 
   "introText1": "S'il y a une chose dont je suis certain, c'est que les grandes entreprises reposent sur de grands systèmes.",
 
-  "introText2": "Je m'appelle Fulgence Mazie, bien que la plupart des gens m'appellent Clyde. En tant que Professionnel Certifié en Gestion de Projet (PMP®) et Chartered Manager (CMgr), titulaire d'un diplôme First-Class Honours en Business and Management de l'Université de Derby et d'un Master en Études du Développement et Diplomatie de l'Universitat Oberta de Catalunya, en Espagne, j'accompagne depuis une dizaine d'années des organisations dans la résolution de défis complexes grâce à la gestion de projet stratégique et au conseil en management.",
+  "introText2": "Je m'appelle Fulgence Mazie, bien que la plupart des gens m'appellent Clyde. En tant que Chartered Manager (CMgr MCMI) et Professionnel Certifié en Gestion de Projet (PMP®), titulaire d'un diplôme First-Class Honours en Business and Management de l'Université de Derby, et actuellement en préparation d'un Master en Études du Développement et Diplomatie (En cours) à l'Universitat Oberta de Catalunya, en Espagne, j'accompagne depuis une dizaine d'années des organisations dans la gestion de défis complexes grâce à la gestion de projet stratégique et au conseil en management.",
 
-  "introText3": "Mon approche consiste à aider les organisations à naviguer dans la complexité en équilibrant gouvernance structurée et exécution adaptative. Parce que je travaille aussi bien avec les méthodologies Agile, Scrum que Waterfall, je ne crois pas aux cadres uniques appliqués à toutes les situations. J'adapte plutôt l'approche à ce dont votre organisation a réellement besoin. D'une planification minutieuse et d'une maîtrise rigoureuse du budget à l'atténuation des risques et à l'engagement des parties prenantes, je veille à ce que les objectifs stratégiques soient livrés dans les délais, le périmètre et le budget prévus. En définitive, je suis spécialisé dans la transformation de blocages frustrants en processus fluides et performants.",
+  "introText3": "Mon approche consiste à aider les entreprises à gérer la complexité en équilibrant une gouvernance claire avec une capacité d'adaptation. Parce que je travaille aussi bien avec les approches Agile, y compris Scrum, qu'avec les méthodologies Waterfall et Hybrides, je ne crois pas aux cadres universels applicables à toutes les situations. Je préfère adapter la stratégie de mise en œuvre aux besoins réels de l'organisation et du projet.",
 
-  "introText4": "Lorsque je ne suis pas en train d'optimiser des systèmes d'entreprise ou de jouer au football, j'applique cette même approche diagnostique à l'une de mes passions manuelles : la mécanique diesel. Qu'il s'agisse de dépanner un système d'injection à rampe commune haute pression ou d'ajuster le calendrier d'un projet, j'aime tout simplement comprendre comment des éléments complexes s'assemblent pour atteindre une performance optimale.",
+  "introText3b": "Selon le projet, j'utilise Agile et Scrum pour le développement de services, les projets numériques et les améliorations opérationnelles, lorsque les exigences sont susceptibles d'évoluer grâce aux retours des parties prenantes. J'applique Waterfall lorsque le périmètre, le budget et les exigences techniques sont clairement définis, comme dans la construction, la mise en œuvre réglementaire ou les projets d'infrastructure. Pour les grandes transformations organisationnelles, j'utilise une approche Hybride combinant une planification structurée et un contrôle financier rigoureux avec des tests itératifs et une amélioration continue.",
+
+  "introText3c": "De la planification rigoureuse et de l'atténuation des risques à la gestion stricte du budget et à l'engagement des parties prenantes, je veille à ce que les projets soient livrés dans les délais, le périmètre et le budget prévus, avec un niveau d'exigence élevé. En définitive, je me spécialise dans la transformation de blocages frustrants en processus fluides et performants.",
+
+  "introText4": "Lorsque je ne suis pas en train d'optimiser des systèmes d'entreprise ou de jouer au football, j'applique cette même approche diagnostique à un loisir concret : l'apprentissage de la mécanique diesel. Que je sois en train de diagnostiquer un système d'injection common-rail haute pression ou d'ajuster le calendrier d'un projet, j'aime tout simplement comprendre comment des éléments complexes s'assemblent pour atteindre une performance optimale.",
 
   "introText5": "Si vous recherchez un partenaire de confiance pour améliorer la livraison de vos projets, optimiser vos opérations ou piloter un changement organisationnel en toute confiance, ce serait un plaisir d'échanger sur la façon dont Civoris Consulting peut vous aider à atteindre vos objectifs.",
 
   "cred1": "Années d’Expérience",
   "cred2": "Continents",
-  "cred3": "Certifié",
+  "cred3": "Certifié Professionnellement",
 
   "skillsTag": "COMPÉTENCES CLÉS",
   "skillsTitle": "Compétences Clés & Expertise",
@@ -58,9 +62,9 @@
 
   "qual2Text": "Diplôme First Class en Business and Management de l’Université de Derby au Royaume-Uni.",
 
-  "qual4Title": "Études du Développement et Diplomatie",
+  "qual4Title": "Études du Développement et Diplomatie (En cours)",
 
-  "qual4Text": "Master (M.A.) en Études du Développement et Diplomatie de l'Universitat Oberta de Catalunya, en Espagne.",
+  "qual4Text": "Master (M.A.) en Études du Développement et Diplomatie (En cours), de l'Universitat Oberta de Catalunya, en Espagne.",
 
   "qual3Title": "Diplôme en Management et Leadership",
 

@@ -22,17 +22,21 @@
 
   "introText1": "If there's one thing I'm certain of, it's that great businesses are built on great systems.",
 
-  "introText2": "I'm Fulgence Mazie, though most people call me Clyde. As a Certified Project Management Professional (PMP®) and Chartered Manager (CMgr), holding a First-Class Honours degree in Business and Management from the University of Derby and a Master's degree in Development Studies and Diplomacy from Universitat Oberta de Catalunya, Spain, I've spent the past decade helping organisations solve complex challenges through strategic project management and business consulting.",
+  "introText2": "I'm Fulgence Mazie, though most people call me Clyde. As a Chartered Manager (CMgr MCMI) and Project Management Professional (PMP®), with a First-Class Honours degree in Business and Management from the University of Derby, and currently pursuing a master's degree in Development Studies and Diplomacy (On going) at the Universitat Oberta de Catalunya in Spain, I've spent the last decade helping organisations navigate complex challenges through strategic project management and business consulting.",
 
-  "introText3": "My approach is centred on helping organisations navigate complexity by balancing structured governance with adaptive execution. Because I work across Agile, Scrum and Waterfall methodologies, I don't believe in one-size-fits-all frameworks. Instead, I tailor the approach to what your organisation actually needs. From meticulous planning and rigorous budget control to risk mitigation and stakeholder engagement, I help ensure strategic objectives are delivered on time, within scope and within budget. Ultimately, I specialise in transforming frustrating bottlenecks into streamlined, high-performing workflows.",
+  "introText3": "My approach is based on helping businesses handle complexity by balancing clear governance with room to adapt. Because I work across Agile approaches, including Scrum, as well as Waterfall and Hybrid methodologies, I don't believe in one-size-fits-all frameworks. Instead, I tailor the delivery strategy to what the organisation and the project actually need.",
 
-  "introText4": "When I'm not optimising business systems or playing football, I apply that same diagnostic mindset to one of my hands-on hobbies: learning diesel mechanics. Whether I'm troubleshooting a high-pressure common rail injection system or fine-tuning a project timeline, I simply enjoy working out how complex pieces fit together to achieve peak performance.",
+  "introText3b": "Depending on the project, I use Agile and Scrum for service development, digital projects and operational improvements where requirements are likely to evolve through stakeholder feedback. I apply Waterfall when the scope, budget and technical requirements are clearly defined, such as in construction, regulatory implementation or infrastructure delivery. For major organisational transformations, I use a Hybrid approach that combines structured planning and financial control with iterative testing and continuous improvement.",
 
-  "introText5": "If you're looking for a trusted partner to improve project delivery, streamline operations, or lead organisational change with confidence, I'd be delighted to discuss how Civoris Consulting can help you achieve your goals.",
+  "introText3c": "From thorough planning and risk mitigation to tight budget management and stakeholder engagement, I ensure projects are delivered on time, within scope, within budget and to a high standard. Ultimately, I specialise in turning frustrating bottlenecks into streamlined, high-performing workflows.",
 
-  "cred1": "Years Experience",
+  "introText4": "When I'm not optimising business systems or playing football, I apply that same diagnostic mindset to a hands-on hobby: learning diesel mechanics. Whether I'm troubleshooting a high-pressure common-rail injection system or fine-tuning a project timeline, I simply enjoy working out how complex components fit together to achieve peak performance.",
+
+  "introText5": "If you're looking for a trusted partner to improve project delivery, streamline operations or lead organisational change with confidence, I'd be delighted to discuss how Civoris Consulting can help you achieve your goals.",
+
+  "cred1": "Years' Experience",
   "cred2": "Continents",
-  "cred3": "Certified",
+  "cred3": "Professionally Certified",
 
   "skillsTag": "CORE SKILLS",
   "skillsTitle": "Core Skills & Expertise",
@@ -58,9 +62,9 @@
 
   "qual2Text": "First Class degree in Business and Management from the University of Derby, United Kingdom.",
 
-  "qual4Title": "Development Studies & Diplomacy",
+  "qual4Title": "Development Studies & Diplomacy (On going)",
 
-  "qual4Text": "Master's degree (M.A.) in Development Studies and Diplomacy from Universitat Oberta de Catalunya, Spain.",
+  "qual4Text": "Master's degree (M.A.) in Development Studies and Diplomacy (On going), from Universitat Oberta de Catalunya, Spain.",
 
   "qual3Title": "Diploma in Management and Leadership",
 
