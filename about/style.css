@@ -687,6 +687,60 @@ margin-bottom:6px;
 
 }
 
+/* IN ACTION GALLERY */
+
+.gallery-section{
+padding:20px 0 100px;
+}
+
+.gallery-grid{
+
+display:grid;
+
+grid-template-columns:
+repeat(auto-fit,minmax(320px,1fr));
+
+gap:32px;
+
+margin-top:55px;
+
+}
+
+.gallery-item img{
+
+width:100%;
+
+aspect-ratio:4/3;
+
+object-fit:cover;
+
+object-position:50% 50%;
+
+border-radius:24px;
+
+box-shadow:
+0 20px 50px rgba(0,0,0,.12);
+
+}
+
+.gallery-item img.face-top{
+
+object-position:50% 26%;
+
+}
+
+.gallery-item p{
+
+margin-top:18px;
+
+text-align:center;
+
+color:#4b5563;
+
+font-size:15px;
+
+}
+
 /* CARDS */
 /* =========================
    VALUES GRID
@@ -963,37 +1017,23 @@ color:rgba(255,255,255,.8);
 /* FOOTER */
 
 footer{
-
-background:#0d0d10;
-
-color:#aaa;
-
-padding:50px 0;
-
-text-align:center;
-
+  background:#111;
+  color:#aaa;
+  padding:50px 0;
+  font-size:14px;
 }
 
 footer a{
-
-color:#e8c9cd;
-
-text-decoration:none;
-
-font-weight:500;
-
-transition:color .3s ease;
-
+  color:#e8c9cd;
+  text-decoration:none;
+  font-weight:500;
+  transition:color .3s ease;
 }
 
 footer a:hover{
-
-color:#ffffff;
-
-text-decoration:underline;
-
+  color:#ffffff;
+  text-decoration:underline;
 }
-
 /* ANIMATION */
 
 .fade-in{
