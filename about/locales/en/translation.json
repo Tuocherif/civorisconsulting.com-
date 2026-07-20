@@ -22,15 +22,26 @@
 
   "introText1": "If there's one thing I'm certain of, it's that great businesses are built on great systems.",
 
-  "introText2": "I'm Fulgence Mazie, though most people call me Clyde. As a Chartered Manager (CMgr MCMI) and Project Management Professional (PMP®), with a First-Class Honours degree in Business and Management from the University of Derby, and currently pursuing a master's degree in Development Studies and Diplomacy (On going) at the Universitat Oberta de Catalunya in Spain, I've spent the last decade helping organisations navigate complex challenges through strategic project management and business consulting.",
+  "introText2": "I'm Fulgence Mazie, though most people call me Clyde. As a Chartered Manager (CMgr MCMI) and Project Management Professional (PMP®), with a First-Class Honours degree in Business and Management from the University of Derby in England, I have spent the last decade helping organisations navigate complex challenges through strategic project management and business consulting. I am also currently pursuing a master's degree in Development Studies and Diplomacy at the Universitat Oberta de Catalunya in Spain.",
 
-  "introText3": "My approach is based on helping businesses handle complexity by balancing clear governance with room to adapt. Because I work across Agile approaches, including Scrum, as well as Waterfall and Hybrid methodologies, I don't believe in one-size-fits-all frameworks. Instead, I tailor the delivery strategy to what the organisation and the project actually need.",
+  "introText3": "My approach is based on helping businesses manage complexity by balancing clear governance with the flexibility to adapt. Because I work across Agile approaches, including Scrum, as well as Waterfall and Hybrid methodologies, I do not believe in one-size-fits-all frameworks. Instead, I tailor the delivery strategy to what the organisation and the project actually need.",
 
   "introText3b": "Depending on the project, I use Agile and Scrum for service development, digital projects and operational improvements where requirements are likely to evolve through stakeholder feedback. I apply Waterfall when the scope, budget and technical requirements are clearly defined, such as in construction, regulatory implementation or infrastructure delivery. For major organisational transformations, I use a Hybrid approach that combines structured planning and financial control with iterative testing and continuous improvement.",
 
-  "introText3c": "From thorough planning and risk mitigation to tight budget management and stakeholder engagement, I ensure projects are delivered on time, within scope, within budget and to a high standard. Ultimately, I specialise in turning frustrating bottlenecks into streamlined, high-performing workflows.",
+  "introText3c": "From planning and risk mitigation to rigorous budget management and stakeholder engagement, I help ensure projects are delivered on time, within scope, within budget and to a high standard. Ultimately, I specialise in turning frustrating bottlenecks into streamlined, high-performing workflows.",
 
-  "introText4": "When I'm not optimising business systems or playing football, I apply that same diagnostic mindset to a hands-on hobby: learning diesel mechanics. Whether I'm troubleshooting a high-pressure common-rail injection system or fine-tuning a project timeline, I simply enjoy working out how complex components fit together to achieve peak performance.",
+  "introText3d": "Based in Abidjan, Côte d'Ivoire, my practice focuses on driving operational excellence within the high-growth business environments of West Africa. I specialise in developing tailor-made delivery strategies for high-stakes sectors, including:",
+
+  "sector1Name": "Telecommunications and Fintech:",
+  "sector1Desc": " Orchestrating complex digital transformations, compliance integrations and scalable infrastructure rollouts where precision and rapid time to market are critical.",
+
+  "sector2Name": "Logistics and Supply Chain:",
+  "sector2Desc": " Diagnosing cross-border bottlenecks, streamlining supply networks and implementing workflow automation to reduce operational friction.",
+
+  "sector3Name": "NGOs and Development Agencies:",
+  "sector3Desc": " Structuring robust monitoring, evaluation and reporting frameworks that align international stakeholder funding with measurable, ground-level community impact.",
+
+  "introText4": "When I'm not optimising business systems or playing football, I apply the same diagnostic mindset to a hands-on hobby: learning diesel mechanics. Whether I'm troubleshooting a high-pressure common-rail injection system or fine-tuning a project timeline, I simply enjoy working out how complex components fit together to achieve peak performance.",
 
   "introText5": "If you're looking for a trusted partner to improve project delivery, streamline operations or lead organisational change with confidence, I'd be delighted to discuss how Civoris Consulting can help you achieve your goals.",
 

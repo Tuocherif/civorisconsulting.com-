@@ -22,13 +22,24 @@
 
   "introText1": "S'il y a une chose dont je suis certain, c'est que les grandes entreprises reposent sur de grands systèmes.",
 
-  "introText2": "Je m'appelle Fulgence Mazie, bien que la plupart des gens m'appellent Clyde. En tant que Chartered Manager (CMgr MCMI) et Professionnel Certifié en Gestion de Projet (PMP®), titulaire d'un diplôme First-Class Honours en Business and Management de l'Université de Derby, et actuellement en préparation d'un Master en Études du Développement et Diplomatie (En cours) à l'Universitat Oberta de Catalunya, en Espagne, j'accompagne depuis une dizaine d'années des organisations dans la gestion de défis complexes grâce à la gestion de projet stratégique et au conseil en management.",
+  "introText2": "Je m'appelle Fulgence Mazie, bien que la plupart des gens m'appellent Clyde. En tant que Chartered Manager (CMgr MCMI) et Professionnel Certifié en Gestion de Projet (PMP®), titulaire d'un diplôme First-Class Honours en Business and Management de l'Université de Derby, en Angleterre, j'accompagne depuis une dizaine d'années des organisations dans la gestion de défis complexes grâce à la gestion de projet stratégique et au conseil en management. Je prépare également actuellement un Master en Études du Développement et Diplomatie à l'Universitat Oberta de Catalunya, en Espagne.",
 
-  "introText3": "Mon approche consiste à aider les entreprises à gérer la complexité en équilibrant une gouvernance claire avec une capacité d'adaptation. Parce que je travaille aussi bien avec les approches Agile, y compris Scrum, qu'avec les méthodologies Waterfall et Hybrides, je ne crois pas aux cadres universels applicables à toutes les situations. Je préfère adapter la stratégie de mise en œuvre aux besoins réels de l'organisation et du projet.",
+  "introText3": "Mon approche consiste à aider les entreprises à gérer la complexité en équilibrant une gouvernance claire avec la flexibilité nécessaire pour s'adapter. Parce que je travaille aussi bien avec les approches Agile, y compris Scrum, qu'avec les méthodologies Waterfall et Hybrides, je ne crois pas aux cadres universels applicables à toutes les situations. Je préfère adapter la stratégie de mise en œuvre aux besoins réels de l'organisation et du projet.",
 
   "introText3b": "Selon le projet, j'utilise Agile et Scrum pour le développement de services, les projets numériques et les améliorations opérationnelles, lorsque les exigences sont susceptibles d'évoluer grâce aux retours des parties prenantes. J'applique Waterfall lorsque le périmètre, le budget et les exigences techniques sont clairement définis, comme dans la construction, la mise en œuvre réglementaire ou les projets d'infrastructure. Pour les grandes transformations organisationnelles, j'utilise une approche Hybride combinant une planification structurée et un contrôle financier rigoureux avec des tests itératifs et une amélioration continue.",
 
-  "introText3c": "De la planification rigoureuse et de l'atténuation des risques à la gestion stricte du budget et à l'engagement des parties prenantes, je veille à ce que les projets soient livrés dans les délais, le périmètre et le budget prévus, avec un niveau d'exigence élevé. En définitive, je me spécialise dans la transformation de blocages frustrants en processus fluides et performants.",
+  "introText3c": "De la planification et de l'atténuation des risques à une gestion rigoureuse du budget et à l'engagement des parties prenantes, je veille à ce que les projets soient livrés dans les délais, le périmètre et le budget prévus, avec un niveau d'exigence élevé. En définitive, je me spécialise dans la transformation de blocages frustrants en processus fluides et performants.",
+
+  "introText3d": "Basé à Abidjan, en Côte d'Ivoire, mon cabinet se consacre à l'excellence opérationnelle au sein des environnements d'affaires à forte croissance de l'Afrique de l'Ouest. Je développe des stratégies de mise en œuvre sur mesure pour des secteurs à forts enjeux, notamment :",
+
+  "sector1Name": "Télécommunications et Fintech :",
+  "sector1Desc": " Orchestration de transformations numériques complexes, d'intégrations de conformité et de déploiements d'infrastructures évolutives, où la précision et la rapidité de mise sur le marché sont essentielles.",
+
+  "sector2Name": "Logistique et Chaîne d'Approvisionnement :",
+  "sector2Desc": " Diagnostic des blocages transfrontaliers, optimisation des réseaux d'approvisionnement et mise en place d'automatisations de processus pour réduire les frictions opérationnelles.",
+
+  "sector3Name": "ONG et Agences de Développement :",
+  "sector3Desc": " Structuration de cadres solides de suivi, d'évaluation et de reporting alignant le financement des parties prenantes internationales sur un impact communautaire mesurable et concret.",
 
   "introText4": "Lorsque je ne suis pas en train d'optimiser des systèmes d'entreprise ou de jouer au football, j'applique cette même approche diagnostique à un loisir concret : l'apprentissage de la mécanique diesel. Que je sois en train de diagnostiquer un système d'injection common-rail haute pression ou d'ajuster le calendrier d'un projet, j'aime tout simplement comprendre comment des éléments complexes s'assemblent pour atteindre une performance optimale.",
 
